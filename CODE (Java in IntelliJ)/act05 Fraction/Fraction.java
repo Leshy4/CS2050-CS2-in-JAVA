@@ -1,5 +1,5 @@
 /** CS 2050 - Computer Science II
- * Description: Activity 05 - Fraction       */
+    Description: Activity 05 - Fraction       */
 
 public class Fraction {
 
