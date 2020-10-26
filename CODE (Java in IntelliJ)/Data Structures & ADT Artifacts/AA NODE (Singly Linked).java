@@ -1,6 +1,4 @@
-package PostfixEvaluationP;/* Student: Christopher Welch
- * CS2050 - Computer Science II - Spring 2020
- * Instructor: Thyago Mota           * Description: Homework 05 - Node       */
+// package PostfixEvaluationP;          // package == way to put files together with a main() driver
 
 public class Node {
 
